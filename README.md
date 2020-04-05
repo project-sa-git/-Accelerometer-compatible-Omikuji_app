@@ -1,9 +1,8 @@
 # -Accelerometer-compatible-Omikuji_app
 
-<img width="222" alt="omikuji_image" src="https://user-images.githubusercontent.com/50135286/78470846-6e0e7700-7767-11ea-91a6-0523aecfc58a.PNG">
+<img width="150" alt="omikuji_image" src="https://user-images.githubusercontent.com/50135286/78470926-1f151180-7768-11ea-8334-e5bb02077ccb.PNG">
 
-
-![omikuji_image2 PNG](https://user-images.githubusercontent.com/50135286/78470851-7961a280-7767-11ea-8e76-59a5b0f4ede9.jpg)
+![omikuji_image2 PNG](https://user-images.githubusercontent.com/50135286/78470929-22a89880-7768-11ea-9a3e-7b238a199c56.jpg)
 
 
 Androidの加速度センサーに対応した、端末をシェイクして楽しむ「おみくじアプリ」になります。
